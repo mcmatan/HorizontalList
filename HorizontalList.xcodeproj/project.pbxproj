@@ -14,6 +14,7 @@
 		8A0D70191F934CCB0034C66D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A0D70171F934CCB0034C66D /* LaunchScreen.storyboard */; };
 		8A0D70241F934CCC0034C66D /* HorizontalListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0D70231F934CCC0034C66D /* HorizontalListTests.swift */; };
 		8A0D702F1F934CCC0034C66D /* HorizontalListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0D702E1F934CCC0034C66D /* HorizontalListUITests.swift */; };
+		8A0D703E1F934CFC0034C66D /* HorizontalList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0D703D1F934CFC0034C66D /* HorizontalList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8A0D702A1F934CCC0034C66D /* HorizontalListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HorizontalListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A0D702E1F934CCC0034C66D /* HorizontalListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalListUITests.swift; sourceTree = "<group>"; };
 		8A0D70301F934CCC0034C66D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A0D703D1F934CFC0034C66D /* HorizontalList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8A0D70151F934CCB0034C66D /* Assets.xcassets */,
 				8A0D70171F934CCB0034C66D /* LaunchScreen.storyboard */,
 				8A0D701A1F934CCB0034C66D /* Info.plist */,
+				8A0D703D1F934CFC0034C66D /* HorizontalList.swift */,
 			);
 			path = HorizontalList;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				8A0D70111F934CCB0034C66D /* ViewController.swift in Sources */,
 				8A0D700F1F934CCB0034C66D /* AppDelegate.swift in Sources */,
+				8A0D703E1F934CFC0034C66D /* HorizontalList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
