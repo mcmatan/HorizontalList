@@ -7,7 +7,7 @@ Simple, basic, uses UIStackView.
 
 Example:
 
-   let list = HorizontalList()
+        let list = HorizontalList()
         self.view.addSubview(list)
         list.translatesAutoresizingMaskIntoConstraints = false
         
